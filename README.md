@@ -1,1 +1,1 @@
-B更改了Readme
+This is A , B也干了，还解决了冲突
